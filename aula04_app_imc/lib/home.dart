@@ -24,13 +24,24 @@ class _HomeState extends State<Home> {
       double imc = peso / (altura * altura);
       var imcFormat = imc.toStringAsFixed(2);
 
-          if (imc > 25) {
-            mostrarResultado = 'O seu imc é de $imcFormat, portanto o peso não é ideal.';
+          if (imc < 18.5) {
+            mostrarResultado = "IMC: $imcFormat | Abaixo do peso";
           }
+          else if (imc < 24.9) {
+            mostrarResultado = "IMC: $imcFormat | Peso normal";
+          }
+          else if (imc < 29.9) {
+            mostrarResultado = "IMC: $imcFormat | Sobrepeso";
+          }
+          else if (imc < 34.9) {
+            mostrarResultado = "IMC: $imcFormat | Obesidade Grau I";
+          }            
+          else if (imc < 39.9){
+            mostrarResultado = "IMC: $imcFormat | Obesidade Grau II";
+          }            
           else {
-            mostrarResultado = 'O seu imc é de $imcFormat, portanto o peso é ideal.';
+            mostrarResultado = "IMC: $imcFormat | Obesidade Grau III";
           }
-
       }
       else {
         mostrarResultado = "Os dois valores devem ser preenchidos.";
