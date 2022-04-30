@@ -68,3 +68,51 @@ Repositório com os exercícios e aplicativos desenvolvidos durante as aulas de 
   <img src="https://user-images.githubusercontent.com/80857238/160243614-d9b8daa4-aa6e-4b9a-9e94-0bc22e4e9858.png" width=245px>   
 </div>
 
+## Aula 05 - Abertura de conta
+
+* App07 - Formulário de abertura de conta bancária 
+Nome (TextInput), Idade (TextField), Sexo (DropDownButton), Escolaridade (DropDownButton), Limite na conta (Slider), Brasileiro (Switch), Botão (RaisedButton). Ao clicar no botão “Confirmar” exibir todos os dados abaixo com Texts.
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/162548516-548f939b-f37b-48c3-9a5e-ef0402dcbdb2.png" width=245px>   
+  <img src="https://user-images.githubusercontent.com/80857238/162548528-9c5a07b7-ae70-4c5b-b992-1041fc2b308a.png" width=245px>   
+  <img src="https://user-images.githubusercontent.com/80857238/162548543-d469f686-3fb1-4594-98e9-25720999dfa8.png" width=245px>   
+</div>
+
+## Aula 05 - Anúncios
+
+* App08 - Anúncios para venda de produtos
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/162548617-f21b9751-4c68-4e86-84f1-9375a58b847c.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548631-40693f5f-a2d6-4d95-aa12-455ff90949e2.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548644-5203ae17-9829-443a-90a6-08cc1d283141.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548760-294fcce0-5571-4b96-9191-bd538f087b51.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548667-61df6f25-22e1-42f6-9e73-02d767aaa024.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548791-44d0813f-6a25-4f01-b224-eee1bea610c7.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548676-b685b7ee-b0f2-46e8-ba47-f989880d2364.png" width=245px>
+</div>
+
+## Aula 05 - Vagas
+
+* App09 - Vagas de emprego de TI
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/162548852-e5719567-e843-4d2e-8d0a-573b2390fd3c.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548877-59b0744a-a396-46d1-bc73-3cb24d404604.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548884-492857c9-a59d-459b-9329-85482aaed9e2.png" width=245px>
+</div>
+
+
+## Aula 05 - Conversor de moedas
+
+* App10 - Conversor de Moedas - Real, Dólar e Euro
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/162549072-3b369a6c-93c3-4f1f-a3b2-35838497d7e8.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548981-70911100-fbed-4364-a1a7-66084df3d333.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162549117-aa11387a-5a7f-425a-99e7-9c60525915d2.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/162548967-ba48384e-4169-4ea4-931a-b88743b9c66a.png" width=245px>
+</div>
+
