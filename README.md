@@ -213,16 +213,9 @@ Nome (TextInput), Idade (TextField), Sexo (DropDownButton), Escolaridade (DropDo
 
 {adicionar prints}
 
-
-## Aula 08 - API - GitHub
-
-* App 21 -  Perfil dos Devs
-
-{adicionar prints}
-
 ## Aula 09 - API - Cadastro de Tarefas
 
-* App 22 -  Cadastro de Tarefas
+* App 21 -  Cadastro de Tarefas
 
 {adicionar prints}
 
