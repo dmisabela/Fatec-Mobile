@@ -116,3 +116,121 @@ Nome (TextInput), Idade (TextField), Sexo (DropDownButton), Escolaridade (DropDo
   <img src="https://user-images.githubusercontent.com/80857238/162548967-ba48384e-4169-4ea4-931a-b88743b9c66a.png" width=245px>
 </div>
 
+## Aula 06 - Conta bancária com 2 telas
+
+* App 11 - Formulário de abertura de conta bancária com 2 telas
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185024-331f3e00-3b2f-4026-87bf-be68e3ebebb4.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185035-74535033-e95b-4932-94d6-3fcdd8574681.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185041-3b8a9839-f4d0-407b-b918-3c21e1b1c077.png" width=245px>
+</div>
+
+
+## Aula 06 - Perfil com Drawer Navigation
+
+* App 12 -  Meu Perfil com Drawer Navigation
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185122-501e3d3b-c1a9-484b-97a7-4211d33d16d6.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185126-e3162c9e-bd8a-4554-959b-4c784d9ee98b.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185129-f0b851bb-397e-419d-8011-46a0e0f4759b.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185134-fcad10b5-1101-40e3-99f6-3e67e63a2796.png" width=245px>
+</div>
+
+
+## Aula 06 - Perfil com Bottom Navigation Bar
+
+* App 13 -  Meu Perfil com Bottom Navigation Bar
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185155-961621c5-ae43-4caf-bc82-01ddd4ef5438.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185161-bf7897ce-8a1a-499f-8693-f67f2da32b9d.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185164-e73fbc4c-ad4a-4240-be82-d36c92b53225.png" width=245px>
+</div>
+
+
+## Aula 07 - Shared Preferences
+
+* App 14 - Visualização de Frase com Preferências do Usuário
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185175-7b2a4d05-f196-43e9-bca8-2a6d0bbf5ac7.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185182-774c0340-ef7b-4321-a50d-f92e8f734b70.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185193-af1f81f5-7159-492b-aaa8-a38e7af2b857.png" width=245px>
+</div>
+
+## Aula 07 - Tarefas com SQLite
+
+* App 15 - Lista de Tarefas
+
+{adicionar prints}
+
+## Aula 07 - Compras com SQLite
+
+* App 16 - Lista de Compras
+
+{adicionar prints}
+
+## Aula 08 - API - ViaCep
+
+* App 17 - Consultar CEP
+* (Utilizando a API do ViaCep: https://viacep.com.br/ws/<< seu cep >>/json/)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185071-080320ec-2ae2-4212-9005-c5abb6e084c0.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185084-af1cf74f-19ca-47b3-91c5-562b83e4a95b.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185086-844883fa-7b6e-40fa-8e68-90ed82e0fda5.png" width=245px>
+</div>
+
+
+## Aula 08 - API - GitHub
+
+* App 18 -  Perfil dos Devs
+* (Utilizando a API do GitHub: https://api.github.com/users/<< seu login >>)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185097-80dc42c4-31c9-4cb2-878f-8b08a8849bfc.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185106-468a5871-dd42-403d-92bf-442852b891be.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185110-098f7f41-c1e2-4a8c-9d80-96327ffb92bd.png" width=245px>
+</div>
+
+## Aula 08 - API - Conversor de Moedas
+
+* App 19 -  Conversor de Moedas
+* Documentação da API: https://docs.awesomeapi.com.br/api-de-moedas
+* 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80857238/173185205-5fcff4fc-6647-4ce8-9f69-17277cec6ad4.png" width=245px>
+  <img src="https://user-images.githubusercontent.com/80857238/173185209-2f97e4cc-9b1b-4cfb-8738-d95ce9d00e54.png" width=245px>
+</div>
+
+
+## Aula 08 - API - Filmes
+
+* App 20 -  Api de Filmes
+* API: https://sujeitoprogramador.com/r-api/?api=filmes
+
+{adicionar prints}
+
+
+## Aula 08 - API - GitHub
+
+* App 21 -  Perfil dos Devs
+
+{adicionar prints}
+
+## Aula 09 - API - Cadastro de Tarefas
+
+* App 22 -  Cadastro de Tarefas
+
+{adicionar prints}
+
+
+## Aula 10 - Câmera
+
+* App 23 - App 23 - App para confecção de Crachás de Empresa
+(Gravar as informações no dispositivo com SQLite)
+
+{adicionar prints}
+
